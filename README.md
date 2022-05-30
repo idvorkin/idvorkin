@@ -22,7 +22,7 @@ Some of my favorite things to do:
 * [Magic](https://idvork.in/magic) - My favorite magic routines on the bottom
 * [Bring others Joy](https://idvork.in/joy) - Some videos of me giving joy on the bottom.
 
-Stats are off since interpreted languages have checked in binaries, but it shows the stuff I dable in atleast.
+Stats are not accurate since interpreted languages have checked in source libraries, but this gives a good sense of what I dable in.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idvorkin&layout=compact&langs_count=10&hide=HTML,Jupyter%20Notebook,Javascript)
 
